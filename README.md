@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/ThomasBergamin/ThomasBergamin/img/bg.jpg)
+![Cover](https://github.com/ThomasBergamin/ThomasBergamin/blob/main/img/bg.jpg)
